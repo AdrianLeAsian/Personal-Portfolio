@@ -1,7 +1,0 @@
-const observer = new intersectionObserver((entires) =>{
-	entries.foreEach((entry) =>{
-	
-	})
-});
-
-const hiddenElements = document.querySelectorAll('.hidden');
