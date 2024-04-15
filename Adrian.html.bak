@@ -9,15 +9,27 @@
 <!--<header>Welcome</header>-->
 <body>
 	<div class="container">
-		<div class="slides slide1">
+		<div class="slides slide1" style{height: 70;}>
+			<img src="images/Moon.jpeg" alt="Adrian" width="500" height="500")></img>
+			<h1>Welcome to my Introduction</h1>
+		</div>
+		<div class="slides slide2">
 			<img src="images/Adrian.jpeg" alt="Adrian" width="500" height="500")></img>
 			<h1>My Name is Adrian Louis Pedregosa</h1>
 		</div>
-		<div class="slides slide2">
+		<div class="slides slide1">
 			<img>
 			<h2>patatas2</h2>
 		</div>		
-		<div class="slides slide3">
+		<div class="slides slide2">
+			<img>
+			<h2>patatas3</h2>
+		</div>	
+		<div class="slides slide1">
+			<img>
+			<h2>patatas3</h2>
+		</div>		
+		<div class="slides slide2">
 			<img>
 			<h2>patatas3</h2>
 		</div>				

@@ -80,7 +80,7 @@ h4{
 }	
 
 img {
-  border: 5px solid #2E2532;
+  /*border: 5px solid #2E2532;*/
   border-radius: 50%;
 }
 
