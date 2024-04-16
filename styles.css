@@ -76,6 +76,19 @@ h4{
 }	
 img {
   /*border: 5px solid #2E2532;*/
-  border-radius: 50%;
+  border-radius: 5%;
 }
 
+.button {
+  background-color: #FFF;
+  border: none;
+  color: #2E2532;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5%;
+}

@@ -9,7 +9,7 @@
 <!--<header>Welcome</header>-->
 <body>
 	<div class="container">
-		<div class="slides slide1" style{height: 70;}>
+		<div class="slides slide1">
 			<img src="images/Moon.jpeg" alt="Adrian" width="500" height="500")></img>
 			<h1>Welcome to my Introduction</h1>
 		</div>
@@ -18,20 +18,15 @@
 			<h1>My Name is Adrian Louis Pedregosa</h1>
 		</div>
 		<div class="slides slide1">
-			<img>
-			<h2>patatas2</h2>
-		</div>		
-		<div class="slides slide2">
-			<img>
-			<h2>patatas3</h2>
-		</div>	
-		<div class="slides slide1">
-			<img>
-			<h2>patatas3</h2>
-		</div>		
-		<div class="slides slide2">
-			<img>
-			<h2>patatas3</h2>
+			<h2>Coding Languages I'm okay with"</h2>
+			<img src="images/Python.jpeg" alt="Python" width="500" height="500")></img>
+		</div>			
+		<div class="slides slide2" style="background: #000">
+			<img src="images/Adrian.jpeg" alt="Adrian" width="500" height="500")></img>
+			<h2>Contact Me</h2>
+				<a href="mailto:AdrianLouisPedregosa@gmail.com" class="button">Gmail</a>
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="button">Youtube</a>
+				<a href="https://www.facebook.com/adrian.pedregosa.399" class="button">Facebook</a></p>
 		</div>				
 	</div>
 </body>
